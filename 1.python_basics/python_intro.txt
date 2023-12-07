@@ -1,0 +1,11 @@
+Scripting:
+1. Shell Scripting ( commands into a file and run them using bash )
+	- Commands -> bash shell
+	- aws cli commands -> aws cli installed on your machine 
+	- shell comands and aws cli commands -> combine -> shell script ( test.sh )
+	- bash test.sh ( Run shell script )
+2. Python
+	- basic commands -> Python Interpretor ( terminal )
+	- python commands to interact with aws ( boto3 ) -> boto3 package installed on the python in that machine
+	- commands into a file ( test.py )
+	- python test.py ( Run python script )
